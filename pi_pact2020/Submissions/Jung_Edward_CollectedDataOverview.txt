@@ -1,0 +1,15 @@
+
+
+Data used for the project(5 sets) 
+ - open3feetbig.csv	: 500 data collected from Pis that were 3 feet apart without any obstacles between them
+ - open6feet.csv	: 650 Data collected from Pis that were 6 feet apart without any obstacles between them
+ - open9feebig.csv	: 500 Data collected from Pis that were 9 feet apart without any obstacles between them
+ - wall3feetbig.csv	: 500 Data collected from Pis that were 3 feet apart in different rooms seperated by an interior wall of 10 inch thickness
+ - wall9feetbig.csv	: 500 Data collected from Pis that were 9 feet away in different rooms separated by an interior wall of 10 inch thickness
+
+
+Data collected but not used(4 sets)
+ - open3feet.csv	: Initial data collected during experimenting phase. Was not used for the project.
+ - open9feet.csv	: Initial data collected during experimenting phase. Was not used for the project.
+ - wood3feet.csv	: Initial data collected during experimenting phase. Was not used for the project.
+ - wood9feet.csv	: Initial data collected during experimenting phase. Was not used for the project.
